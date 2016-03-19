@@ -1,0 +1,43 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: UTF-8
+
+
+@InProceedings{glorot2011deep,
+  Title                    = {Deep sparse rectifier neural networks},
+  Author                   = {Glorot, Xavier and Bordes, Antoine and Bengio, Yoshua},
+  Booktitle                = {International Conference on Artificial Intelligence and Statistics},
+  Year                     = {2011},
+  Pages                    = {315--323},
+
+  File                     = {:/home/luozhiyi/papers/glorot11a.pdf:PDF},
+  Url                      = {http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf}
+}
+
+@InProceedings{poultney2006efficient,
+  Title                    = {Efficient learning of sparse representations with an energy-based model},
+  Author                   = {Poultney, Christopher and Chopra, Sumit and Cun, Yann L and others},
+  Booktitle                = {Advances in neural information processing systems},
+  Year                     = {2006},
+  Pages                    = {1137--1144},
+
+  File                     = {:/home/luozhiyi/papers/3112-efficient-learning-of-sparse-representations-with-an-energy-based-model.pdf:PDF},
+  Review                   = {Sparsity, a key element of deep convolutional networks exploiting a variant of auto-encoders.
+稀疏代表能量很少
+Sparse Coding (稀疏编码): 无监督学习
+    i) 从数据中学习字典A
+    ii) 学习稀疏表示 s(i)
+min(A,s) 广义坐标下降法，EM？},
+  Url                      = {http://papers.nips.cc/paper/3112-efficient-learning-of-sparse-representations-with-an-energy-based-model.pdf}
+}
+
+@InProceedings{ZhiyiLuo2016,
+  Title                    = {Commonsense Causal Reasoning between Short Texts},
+  Author                   = {Zhiyi Luo, Yuchen Sha, Kenny Q. Zhu, Seung-won Hwang, Zhongyuan Wang},
+  Year                     = {2016},
+
+  File                     = {:/home/luozhiyi/projects/papers/kr2016-copa/luo.pdf:PDF},
+  Owner                    = {luozhiyi},
+  School                   = {Shanghai Jiao Tong University},
+  Timestamp                = {2016.03.17}
+}
+
