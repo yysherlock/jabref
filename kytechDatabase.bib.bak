@@ -1,0 +1,47 @@
+% Encoding: UTF-8
+
+@InProceedings{ren2015clustype,
+  author =       {Ren, Xiang and El-Kishky, Ahmed and Wang, Chi and Tao, Fangbo and Voss, Clare R and Han, Jiawei},
+  title =        {Clustype: Effective entity recognition and typing by relation phrase-based clustering},
+  booktitle =    {Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  year =         {2015},
+  pages =        {995--1004},
+  organization = {ACM},
+  review =       {Mutual Enhancement
+formulate optimization function},
+  url =          {http://hanj.cs.illinois.edu/pdf/kdd15_xren.pdf}
+}
+
+@InProceedings{tang2015line,
+  author =       {Tang, Jian and Qu, Meng and Wang, Mingzhe and Zhang, Ming and Yan, Jun and Mei, Qiaozhu},
+  title =        {Line: Large-scale information network embedding},
+  booktitle =    {Proceedings of the 24th International Conference on World Wide Web},
+  year =         {2015},
+  pages =        {1067--1077},
+  organization = {International World Wide Web Conferences Steering Committee},
+  review =       {Tech: Network Embedding
+model similarity的intuition与keyang的association network一样,分成两个部分:
+    1) first order: 直接相连(neighbors)的结点相近(相似)
+    2) second order: 两个结点 share 的neighbors越多 越相近(相似)}
+}
+
+@InProceedings{wang2015mining,
+  author =       {Wang, Jingjing and Tong, Wenzhu and Yu, Hongkun and Li, Min and Ma, Xiuli and Cai, Haoyan and Hanratty, Tim and Han, Jiawei},
+  title =        {Mining Multi-aspect Reflection of News Events in Twitter: Discovery, Linking and Presentation},
+  booktitle =    {Data Mining (ICDM), 2015 IEEE International Conference on},
+  year =         {2015},
+  pages =        {429--438},
+  organization = {IEEE},
+  review =       {Tech: Graph Model
+pipeline 两个模块:
+    1) graphic model
+    2) bootstrap},
+  url =          {https://pdfs.semanticscholar.org/7918/a3c74fbea64bd374e6a1f86ab31d8f8e1c4d.pdf}
+}
+
+@InProceedings{,
+  author = {Keyang Zhang},
+  title =  {GMove: Group-Level Mobility Modeling Using Geo-Tagged Social Media},
+  year =   {2016},
+  file =   {:/root/projects/papers/reading/main-hmm.pdf:PDF}
+}
