@@ -44,5 +44,5 @@ pipeline 两个模块:
   title =  {GMove: Group-Level Mobility Modeling Using Geo-Tagged Social Media},
   year =   {2016},
   file =   {:/root/projects/papers/reading/main-hmm.pdf:PDF},
-  review = {HMM 外面套了一层EM}
+  review = {HMM 外面套了一层 EM}
 }
